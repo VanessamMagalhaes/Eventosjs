@@ -5,5 +5,5 @@
 
 const cor = document.getElementById('btn');
 cor.addEventListener('click', function(){
-    document.body.style.backgraundColor = 'blue';
+    document.body.style.backgraundColor = 'red';
 })
